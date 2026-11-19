@@ -1,0 +1,7 @@
+invoice_number,buyer_name,buyer_email,amount,invoice_date,acceptance_date,credit_days,paid_amount
+INV-1001,Shakti Auto Components,accounts@shaktiauto.example,300000,2026-09-10,2026-09-12,30,0
+INV-1002,Shakti Auto Components,accounts@shaktiauto.example,120000,2026-10-05,2026-10-06,30,0
+INV-1003,Meera Engineering,finance@meeraeng.example,200000,2026-09-25,2026-09-27,30,50000
+INV-1004,Meera Engineering,finance@meeraeng.example,90000,2026-11-01,2026-11-02,15,0
+INV-1005,Bharat Pumps Ltd,ap@bharatpumps.example,340000,2026-11-10,2026-11-11,30,0
+INV-1006,Bharat Pumps Ltd,ap@bharatpumps.example,150000,2026-08-20,2026-08-22,45,150000
